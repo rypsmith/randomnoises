@@ -1,14 +1,10 @@
 
 > Open this page at [https://rypsmith.github.io/randomnoises/](https://rypsmith.github.io/randomnoises/)
 
-## Use as Extension
+## Tutorial
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/rypsmith/randomnoises** and import
+* [tutorial](/randomnoises/tutorial) 
+* [start](https://makecode.microbit.org/#tutorial:github:rypsmith/randomnoises/tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/rypsmith/randomnoises/workflows/MakeCode/badge.svg)
 
@@ -17,13 +13,6 @@ To edit this repository in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/rypsmith/randomnoises** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/rypsmith/randomnoises/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
