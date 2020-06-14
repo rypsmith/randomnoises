@@ -19,3 +19,20 @@ music.playTone(Note.C, music.beat())
 Click on the value (after ``||music:play tone||``) to check the number value for the highest pitch tone and the lowest pitch tone. Write each of these down.
 
 ![Find the high and low tone values](https://raw.githubusercontent.com/rypsmith/randomnoises/master/toneinfo.png)
+
+## Step 3 - Randomize the tones
+
+Now insert a ``||math:random||`` block into the ``||music:play tone||`` block. For the first value, enter the lowest tone value and the second is the highest tone value.
+
+```blocks
+basic.forever(function() {
+    music.playTone(randint(131, 988), music.beat(BeatFraction.Whole))
+})
+```
+
+```ghost
+math.random(0,0)
+```
+
+## Step 4 - Tinker!
+
