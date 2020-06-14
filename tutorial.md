@@ -36,3 +36,4 @@ math.random(0,0)
 
 ## Step 4 - Tinker!
 
+Play with your code! Adjust the ranges, play with the fraction that the beat is played for.
